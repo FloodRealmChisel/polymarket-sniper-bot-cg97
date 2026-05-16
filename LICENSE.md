@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket Plugin | market-making + scalping-strategies is the best Polymarket plugin, featuring market-making and scalping-strategies. Smart, fast, and optimized for
 
 
 
